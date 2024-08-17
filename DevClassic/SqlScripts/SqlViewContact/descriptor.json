@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "7d1e4872-100d-b5af-f686-241bde749baa",
+    "Name": "SqlViewContact",
+    "DBEngineType": 0,
+    "InstallType": 0,
+    "ModifiedOnUtc": "\/Date(1723901366000)\/",
+    "BackwardCompatibilityConfirmed": false,
+    "DependsOn": []
+  }
+}
